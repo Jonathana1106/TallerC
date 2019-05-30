@@ -1,3 +1,0 @@
-C:/Users/Jonathan/Documents/C/TallerC/cmake-build-debug/CMakeFiles/TallerC.dir
-C:/Users/Jonathan/Documents/C/TallerC/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Jonathan/Documents/C/TallerC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
